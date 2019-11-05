@@ -1,1 +1,4 @@
-# ssg-bash
+# solo
+# solo
+# solo
+# solo
